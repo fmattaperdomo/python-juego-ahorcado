@@ -2,7 +2,7 @@
 
 ## Realizado con Python 3+
 
-### Lo puedes consultar en linea [Formulario de Registro](http://www.fmattaperdomo.co)
+### Lo puedes consultar en linea [Juego del Ahorcado - Python](http://www.fmattaperdomo.co)
 
 
 
